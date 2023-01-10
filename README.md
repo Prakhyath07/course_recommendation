@@ -1,1 +1,1 @@
-# PYPI python package template
+# Course Recommendation project
